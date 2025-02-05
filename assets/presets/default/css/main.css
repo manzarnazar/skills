@@ -1,11 +1,12 @@
 @charset "UTF-8";
 
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
 /*================ Css Variables Start ===============*/
 :root {
   /* === Font Family === */
-  --heading-font: "Rubik", sans-serif;
-  --body-font: "Rubik", sans-serif;
+  --heading-font: "Fraunces", serif;
+  --body-font: "Fraunces", serif;
   /* === TypoGraphy ===*/
   --heading-one: clamp(1.5rem, 2.8vw + 1rem, 3.75rem);
   --heading-two: clamp(1.375rem, 1.7vw + 1rem, 2.5rem);
