@@ -13,7 +13,7 @@
         <style>
             * {
                 font-family: 'Fraunces', serif, sans-serif !important;
-                letter-spacing: -0.1rem !important;
+                letter-spacing: -0.1em !important;
             }
 
             html, body {
