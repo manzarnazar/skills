@@ -9852,9 +9852,12 @@ li.login-registration-list__item .social-list__item .social-list__link i {
 .section-content {
   margin-bottom: 34px;
 }
-
+/* 
+.title{
+  font-size: 50px;
+} */
 .section-content .title-wrap .title {
-  font-size: 32px;
+  font-size: 50px;
   font-weight: 600;
   line-height: 1.18;
 }
