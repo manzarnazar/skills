@@ -449,6 +449,10 @@
   }
 }
 
+*{
+  letter-spacing: -0.1em !important;
+}
+
 .section-heading .section-title-top {
   font-size: 26px;
   display: inline-block;
@@ -6973,6 +6977,7 @@ select.form-control.form--control:has(option) ~ .form--label {
   position: absolute;
   display: none;
 }
+
 
 .bottom-app-bar .botton-bar {
   position: fixed !important;
