@@ -7379,7 +7379,7 @@ select.form-control.form--control:has(option) ~ .form--label {
 
 .hero-left-content .hero-subtitle {
   color: hsl(var(--black) / 0.5);
-  font-size: 18px;
+  font-size: 26px;
   font-weight: 400;
   margin-bottom: 32px;
 }
