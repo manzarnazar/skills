@@ -20,6 +20,7 @@
                 color: #636b6f;
                 font-family: 'Fraunces', serif !important;
                 font-weight: 100;
+                letter-spacing: -0.1rem !important;
                 height: 100vh;
                 margin: 0;
             }
