@@ -451,7 +451,7 @@
 
 *{
   letter-spacing: -0.1em !important;
-  word-spacing: 3px important;
+  word-spacing: 3px !important;
 }
 
 .section-heading .section-title-top {
