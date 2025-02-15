@@ -5126,7 +5126,7 @@ th.w-85 {
 }
 
 .sidebar__menu .sidebar-menu-item > a:hover {
-  background-color: #ecffff;
+  background-color: #bada5533;
   padding-left: 25px;
 }
 
@@ -5141,7 +5141,7 @@ th.w-85 {
 
 .sidebar__menu .sidebar-menu-item .side-menu--open,
 .sidebar__menu .sidebar-menu-item.active > a {
-  background-color: #ecffff;
+  background-color: #bada5533;
   color: var(--primary);
 }
 
@@ -5263,7 +5263,7 @@ th.w-85 {
 }
 
 .sidebar[class*="bg--"] .sidebar__menu .sidebar-menu-item > a:hover {
-  background-color: #ecffff;
+  background-color: #bada5533;
 }
 
 .sidebar[class*="bg--"] .sidebar__menu .sidebar-menu-item .menu-icon,
