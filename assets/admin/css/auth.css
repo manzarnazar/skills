@@ -116,7 +116,7 @@ label {
 }
 
 .sign-in:hover {
-    background: #000;
+    background: #BADA55;
     color: #fff;
     transition: 0.3s ease-in-out;
     border: 1px solid transparent;
