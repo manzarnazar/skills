@@ -1383,9 +1383,10 @@ html {
 body {
   font-family: "Fraunces", serif !important;;
   font-size: 1rem;
+
   padding: 0;
   margin: 0;
-  font-weight: 400;
+  font-weight: 600;
   position: relative;
   background-color: #f3f3f9;
   word-break: break-word;
