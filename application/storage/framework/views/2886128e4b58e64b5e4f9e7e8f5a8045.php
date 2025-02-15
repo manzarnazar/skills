@@ -1,4 +1,3 @@
-
 <?php $__env->startSection('content'); ?>
     <?php echo $__env->make($activeTemplate . '/components/breadcumb', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
     <?php if($sections->secs != null): ?>

@@ -1,4 +1,3 @@
-
 <?php $__env->startSection('content'); ?>
     <?php
         $policyPages = getContent('policy_pages.element', false, null, true);

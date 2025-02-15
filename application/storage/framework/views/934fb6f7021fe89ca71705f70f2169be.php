@@ -1,4 +1,3 @@
-
 <?php $__env->startSection('content'); ?>
     <!--=======-** Sign In start **-=======-->
     <?php

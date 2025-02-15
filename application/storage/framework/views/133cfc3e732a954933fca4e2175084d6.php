@@ -1,4 +1,3 @@
-
 <?php $__env->startSection('content'); ?>
     <?php if($sections->secs != null): ?>
         <?php $__currentLoopData = json_decode($sections->secs); $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $sec): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
