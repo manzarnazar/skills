@@ -1381,7 +1381,7 @@ html {
 }
 
 body {
-  font-family: "Maven Pro";
+  font-family: "Fraunces", serif !important;;
   font-size: 1rem;
   padding: 0;
   margin: 0;
