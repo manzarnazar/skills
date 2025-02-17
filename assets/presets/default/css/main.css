@@ -7394,7 +7394,7 @@ select.form-control.form--control:has(option) ~ .form--label {
     display: none;
   }
   .hero-left-content .hero-title {
-    font-size: 10em !important;
+    font-size: 8em !important;
   }
 }
 .hero-left-content .hero-subtitle {
