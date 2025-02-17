@@ -7387,7 +7387,7 @@ select.form-control.form--control:has(option) ~ .form--label {
 }
 
 .hero-left-content .hero-title {
-  font-size: 95px;
+  font-size: 12em;
   font-weight: 600;
   line-height: 1.2;
   margin-bottom: 20px !important;
