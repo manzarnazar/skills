@@ -7511,7 +7511,7 @@ select.form-control.form--control:has(option) ~ .form--label {
 
 @media (max-width: 1199px) {
   .how-work-banner {
-    bottom: -180px;
+    bottom: -150px;
   }
 }
 
