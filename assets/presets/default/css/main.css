@@ -7380,14 +7380,6 @@ select.form-control.form--control:has(option) ~ .form--label {
   width: 500px;
 }
 
-@media screen and (max-width: 991px) {
-  .hero-right-content {
-    display: none;
-  }
-  .hero-left-content .hero-title {
-    font-size: 10em;
-  }
-}
 
 .hero-left-content .hero-title {
   font-size: 12em;
@@ -7397,6 +7389,14 @@ select.form-control.form--control:has(option) ~ .form--label {
   color: hsl(var(--black));
 }
 
+@media screen and (max-width: 991px) {
+  .hero-right-content {
+    display: none;
+  }
+  .hero-left-content .hero-title {
+    font-size: 10em !important;
+  }
+}
 .hero-left-content .hero-subtitle {
   color: hsl(var(--black) / 0.5);
   font-size: 26px;
