@@ -767,8 +767,8 @@
     </span>
 
     <div class="container">
-        <div class="row gy-4 justify-content-center">
-            <div class="col-lg-6 col-md-12 d-flex align-items-center">
+        <div class="row gy-4 mb-5 marg">
+            <div class="col-lg-8 col-md-12 d-flex ">
                 <div class="hero-left-content">
                     <h2 class="hero-title wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                         {{__(@$bannerSection->data_values?->heading) }}</h2>

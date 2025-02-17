@@ -7369,6 +7369,15 @@ select.form-control.form--control:has(option) ~ .form--label {
   align-items: start;
   flex-direction: column;
 }
+.hero-right-content {
+  position: absolute;
+  right: 100px;
+  top: 92px;
+  /* padding-bottom: 500px !important; */
+}
+.hero-right-content img {
+  width: 500px;
+}
 
 .hero-left-content .hero-title {
   font-size: 95px;
